@@ -1,6 +1,6 @@
 # SpringScroll
 simple ScrollView support spring overscroll
-<img alt="SpringScroll" src="gif/aafmm-46rgs.gif" />
+<img alt="SpringScroll" width="350" height="720" src="gif/aafmm-46rgs.gif" />
 
 ## License
     Copyright (C) 2020 Mina George
